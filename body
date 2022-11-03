@@ -7,3 +7,8 @@
     <P>-pode ter links,imagens,textos</p>
     </div>
     <div id="principal"
+     <br><p>PÁGINA  PRINCIPAL - pode ter links,imagens,texto</p>
+    </div>
+    <div id="rodape">
+      <br><p>RODAPÉ"> - alguma notação</p>
+      
