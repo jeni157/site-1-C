@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho {
+  height:100px;
+  background-color:aquamarine rbg(212,212,192);
+  margin: 0 auto;
+}
+
+#manu {
+    width:20%;
+    height:600px;
+    background-color:blueviolet rbg(185,180,174);
+    float:left;
+    margin-top: 10px;
+}
